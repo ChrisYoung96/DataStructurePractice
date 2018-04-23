@@ -1,0 +1,4 @@
+﻿  myGraph.cpp
+d:\chris young\study\datastructurepractice\mygraph\mygraph\mygraph.cpp(11): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math.h(89): note: 参见“INFINITY”的前一个定义
+  myGraph.vcxproj -> D:\Chris Young\study\DataStructurePractice\myGraph\Debug\myGraph.exe
